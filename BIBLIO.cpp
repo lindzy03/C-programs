@@ -1,5 +1,6 @@
 #include<iostream>
 #include<cmath>
+#include<cstdlib>
 
 using namespace std;
 int main()
@@ -8,5 +9,7 @@ int main()
     cout<<"knigi="<<a/15<<endl;
     int ceil (b/15);
     cout<<"vestnici="<<b/15<<endl;
+    int ceil (c/15);
+    cout<<"spicania="<<c/15<<endl;
     return 0;
 }
